@@ -7,7 +7,7 @@
 Simply login as root in your Terminal app, paste this code!  
 After installation respring your device
 ```bash 
-
+wget https://github.com/mikigal/ShortLook-Telegram/releases/download/v1.0/pl.mikigal.shortlook.plugin.contact-photo.telegram_1.0_iphoneos-arm.deb && dpkg -i pl.mikigal.shortlook.plugin.contact-photo.telegram_1.0_iphoneos-arm.deb
 ```
 
 ![Screenshot](/screenshot.png?raw=true)
