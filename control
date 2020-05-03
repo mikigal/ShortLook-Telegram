@@ -1,7 +1,7 @@
 Package: pl.mikigal.shortlook.plugin.contact-photo.telegram
 Name: Telegram Profile Pictures for ShortLook
 Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Show Telegram users' profile pictures in ShortLook when you receive a Telegram notification!
 Maintainer: mikigal
